@@ -1,0 +1,49 @@
+.container {
+    text-align: center;
+}
+
+.imagen {
+    width: 350px;
+    height: 250px;
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#img{
+    width: 100%
+}
+
+.titulo-centralizado{
+     text-align: center;
+}
+p{
+    text-align: center;
+
+}
+
+em strong{
+    color: black;
+}
+
+footer{
+    text-align: center;
+    background: #470f9b; 
+    padding: 50px;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+
+
+
